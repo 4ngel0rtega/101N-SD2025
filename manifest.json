@@ -1,0 +1,78 @@
+{
+    "name": "Angel Ortega",
+    "short_name": "AO",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "My portfolio extension",
+    "permissions": ["storage", "tabs"],
+    "start_url": "./index.html?utm_source=web_app_manifest",
+    "orientation": "portrait",
+    "display": "standalone",
+    "theme_color": "#ad46ff",
+    "scope": "./",
+    "background_color": "#ad46ff",
+    "lang": "es-MX",
+    "icons": [
+        {
+            "src": "./assets/IconsPWA/logo-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-64x64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-240x240.png",
+            "sizes": "240x240",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./assets/IconsPWA/logo-1024x1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+
+    ]
+}
